@@ -1,0 +1,8 @@
+ethereum-message-board-dapp/
+├── contracts/
+│   └── MessageBoard.sol
+├── src/
+│   ├── index.html
+│   └── app.js
+├── README.md
+└── .gitignore
